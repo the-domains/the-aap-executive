@@ -1,0 +1,38 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: The AAP Executive
+layout_spectrum: 0.8524259040132165
+typography_spectrum: 0.21177138853818178
+color:
+  brandStrength: 0.29391174274496734
+  lightness: 0.06690294062718749
+  saturation: 0.18926534336060286
+  rhythmicContrast: 0.2817517523653805
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+content: []
+url: 'https://aapexecutive.org'
+author:
+  name: 'Configuration Science, All Rights Reserved ©️ Configuration Science Ltd 2018'
+  email: adamsaltiel@psycho-analysis.clinic
+  url: 'http://configurationscience.co.uk/'
+opengraph:
+  appId: Saltiel
+analytics:
+  twitter: Arbours Association
+title: AAP Executive
+description: ''
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7d9744a-b0e7-4b8e-a29b-201bc21cd7ab.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/954d1302-d52e-4c8f-bc72-2fe3784b99e4.png
